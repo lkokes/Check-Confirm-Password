@@ -1,3 +1,3 @@
-Aplikácia, ktorá overí, či sa zadané heslá zhodujú alebo nie. Je potrebné zadať heslo, ktoré má minimálne 8 znakov.
+This application verifies whether entered passwords match or not. It is necessary to enter a password that has at least 8 characters.
 
 ![alt text](./img/password-check-and-confirm.png)
